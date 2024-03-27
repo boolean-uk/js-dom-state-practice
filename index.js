@@ -46,7 +46,6 @@ function render() {
         todoElement.append(removeBtn)
         todoListElement.append(todoElement)
 
-        console.log(todoList)
     })
 }
 
